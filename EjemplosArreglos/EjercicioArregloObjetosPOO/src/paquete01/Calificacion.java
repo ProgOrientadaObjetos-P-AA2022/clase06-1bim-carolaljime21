@@ -42,6 +42,6 @@ public class Calificacion {
     
     public Profesor obtenerProfesor() {
         return profesor;
-    }
+    }   
 
 }
